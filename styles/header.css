@@ -3,8 +3,6 @@
     justify-content: space-between;
 }
 
-
-
 .cabecalho__menu{
     display: inline-block;
     background-image: url("../img/Menu.svg");
@@ -12,3 +10,7 @@
     height: 24px;
 }
 
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+}
