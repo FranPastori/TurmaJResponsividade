@@ -10,7 +10,10 @@
     background-position: center;
 
 }
-
+.conteiner{
+    display: flexbox;
+    justify-content: space-between;
+}
 .conteiner__imagem{
     padding: 1em;
 }
