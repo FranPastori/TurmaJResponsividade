@@ -14,3 +14,7 @@
     display: flex;
     justify-content: space-between;
 }
+
+.conteiner__imagem{
+    padding: 1em;
+}
