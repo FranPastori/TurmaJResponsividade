@@ -1,8 +1,10 @@
 .cabecalho{
     background-color: var(--branco);
 }
+.cabecalho__menu{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url(img/Menu.svg);
 
-.cabecalho__logo{
-   
-    width: 200px;
 }
