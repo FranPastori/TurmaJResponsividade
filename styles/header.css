@@ -1,4 +1,6 @@
 .cabecalho{
+    display: flexbox;
+    justify-content: space-between;
     background-color: var(--branco);
 }
 .cabecalho__menu{
