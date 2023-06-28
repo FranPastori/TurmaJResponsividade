@@ -28,6 +28,11 @@
     position: absolute;
     top:100%;
 }
+
+.cabecalho__botao{
+display: none;
+
+}
 .conteiner__botao:checked~.lista__menu{
     display: block;
 }
