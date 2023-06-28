@@ -38,7 +38,7 @@ display: none;
 .conteiner__botao:checked~.lista__menu{
     display: block;
 }
-.lista__menu-titulo .lista__menu-item {
+.lista__menu-titulo,.lista__menu-item {
 
     color: var(--amarelo);
     font-weight: 700;
