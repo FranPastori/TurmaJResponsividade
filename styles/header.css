@@ -57,7 +57,7 @@ display: none;
 @media screen and (min-width:1024px){
 
     .lista__menu-link{
-    display: flex;
+    display: block;
     font-family: var(--fonte-secundaria);
     font-size: 30px;
     font-weight: 300;
