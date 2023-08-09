@@ -57,7 +57,7 @@
     text-transform: uppercase;
 }
 
-.container__titulo {
+.conteiner__titulo {
     display: none;
 }
 
@@ -75,7 +75,7 @@
         font-weight: 300;
     }
 
-    .container__titulo--negrito {
+    .conteiner__titulo--negrito {
         font-weight: 400;
     }
 
